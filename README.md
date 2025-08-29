@@ -32,7 +32,7 @@ Designed to help identify strengths, highlight improvement areas, and support da
 ---
 
 ## 📷 Dashboard Preview
-[Overview Page](images/overview.jpg)  
+[Overview Page](BritishAirwaysReviewDashboard.jpg)  
 
 *(Click the links above to view full-size screenshots)*
 
