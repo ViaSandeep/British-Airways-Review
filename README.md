@@ -48,7 +48,7 @@ This dashboard enables:
 ---
 
 ## 🔗 Live Dashboard
-[View on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)
+[View on Tableau Public](https://public.tableau.com/views/BritishAirwaysDashboard_17564455652280/BritishAirwaysDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
